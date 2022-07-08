@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>awdev subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Awdev" title="Awdev">
+            <outline type="rss" text="AWDEV - RSS" title="AWDEV - RSS" xmlUrl="https://www.awdev.eu.org/feeds/posts/default?alt=rss" htmlUrl="http://www.awdev.eu.org/"/>
+            <outline type="rss" text="awdev - Atom" title="awdev - Atom" xmlUrl="https://www.blogger.com/feeds/3815812315177269945/posts/default" htmlUrl="http://cdn-awdev.blogspot.com/"/>
+            <outline type="rss" text="MIKROVER" title="MIKROVER" xmlUrl="http://mikrover.blogspot.com/feeds/posts/default" htmlUrl="http://mikrover.blogspot.com/"/>
+            <outline type="rss" text="𝓐𝔀𝓖𝓻𝓸𝓾𝓹𝓒𝓱𝓪𝓷𝓷𝓮𝓵" title="𝓐𝔀𝓖𝓻𝓸𝓾𝓹𝓒𝓱𝓪𝓷𝓷𝓮𝓵" xmlUrl="https://www.blogger.com/feeds/3204175191033521134/posts/default" htmlUrl="http://awsos.blogspot.com/"/>
+            <outline type="rss" text="ALHIKMAH.MY.ID - Atom" title="ALHIKMAH.MY.ID - Atom" xmlUrl="https://www.alhikmah.my.id/feeds/posts/default" htmlUrl="http://www.alhikmah.my.id/"/>
+            <outline type="rss" text="awdev - Atom" title="awdev - Atom" xmlUrl="https://cdn-awdev.blogspot.com/feeds/posts/default" htmlUrl="https://cdn-awdev.blogspot.com/"/>
+            <outline type="rss" text="awdev - Atom" title="awdev - Atom" xmlUrl="https://cdn-awdev.blogspot.com/feeds/7279552090612646297/comments/default" htmlUrl="http://cdn-awdev.blogspot.com/"/>
+            <outline type="rss" text="AWDEV - Atom" title="AWDEV - Atom" xmlUrl="https://www.awdev.eu.org/feeds/posts/default" htmlUrl="http://www.awdev.eu.org/"/>
+            <outline type="rss" text="ALHIKMAH.MY.ID - RSS" title="ALHIKMAH.MY.ID - RSS" xmlUrl="https://www.alhikmah.my.id/feeds/posts/default?alt=rss" htmlUrl="http://www.alhikmah.my.id/"/>
+            <outline type="rss" text="RSS" title="RSS" xmlUrl="https://medium.com/feed/@wahyu9kdl" htmlUrl="https://medium.com/@wahyu9kdl?source=rss-7ef0050f9480------2"/>
+            <outline type="rss" text="ALHIKMAH.MY.ID" title="ALHIKMAH.MY.ID" xmlUrl="http://feeds.feedburner.com/Alhikmah9" htmlUrl="http://www.alhikmah.my.id/"/>
+            <outline type="rss" text="AWDEV - Atom" title="AWDEV - Atom" xmlUrl="https://www.blogger.com/feeds/6891284416774898953/posts/default" htmlUrl="http://www.awdev.eu.org/"/>
+            <outline type="rss" text="ALHIKMAH.MY.ID - Atom" title="ALHIKMAH.MY.ID - Atom" xmlUrl="https://www.blogger.com/feeds/392213471435482065/posts/default" htmlUrl="http://www.alhikmah.my.id/"/>
+            <outline type="rss" text="awdev - RSS" title="awdev - RSS" xmlUrl="https://cdn-awdev.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://cdn-awdev.blogspot.com/"/>
+        </outline>
+    </body>
+</opml>
