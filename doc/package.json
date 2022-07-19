@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "awdev.eu.org",
+  "author": "AWDEV",
+  "scripts": {
+    "sort": "sort-json subdomains.json"
+  },
+  "devDependencies": {
+    "sort-json": "^1.0.1"
+  }
+}
